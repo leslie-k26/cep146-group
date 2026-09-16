@@ -1,7 +1,7 @@
 # Project Scenario Assignment
 Student Name:  
 Leslie Nguyen  
-Mahtanoj
+Mahta Nojavan
 
 ## Development scenario:
 Building a simple website - Build a simple business website with text, images, and contact forms
